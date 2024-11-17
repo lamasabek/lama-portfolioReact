@@ -1,0 +1,138 @@
+
+.front{
+
+    background-color: aqua;
+    border-radius: 30px;
+    text-align: center;
+    font-size: larger;
+    height: 30px;
+    padding: 100px;
+    margin: 50px;
+    font-weight: 50px;
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  
+
+}
+
+.front:hover{
+  font-size: 60px;
+
+}
+
+
+
+.hand{
+
+  
+    border: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 50px;
+  
+
+
+}
+
+.iconn{
+fill:rgb(79, 77, 77);
+width: 70px;
+height: 90px;
+display: flex;
+margin-top: 60px;
+margin-left: 300px;
+rotate: -30deg;
+}
+
+
+
+.grid-container{grid-template-columns:auto auto ;
+display:grid;
+align-items: center;
+justify-content: center;
+
+
+
+}
+
+
+
+
+.ggrr{
+  border: 3px solid rgb(244, 212, 217) ; 
+  background-color:white;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+  height: 400px;
+  width: 400px;
+  padding-top: 2px;
+}
+.ggrr:hover{
+transform: scale(1.2);
+  box-shadow: 0px 0px 10px blueviolet;
+  color:teal
+}
+
+
+
+.btbt{
+margin-top: 20px;
+margin-right: 200px;
+border-radius: 30px;
+border: 2px solid  rgb(244, 212, 217);
+height: 40px;
+width: 150px;
+background-color: white;
+color:gray
+}
+
+
+
+.hh{
+  color:rgb(244, 212, 217) ;
+  font-weight: 100;
+}
+
+.title{
+  display:flex;
+  justify-content:center;align-items:center;text-align:center
+
+
+}
+
+
+.price{ 
+border-radius: 30px;
+background-image: linear-gradient(aqua, pink);
+height:40px;
+width: 100px;
+margin-left: 100px;
+}
+
+
+
+.par{
+  color:gray;
+ font-size:small;
+ margin: 20px;
+
+}
+.par2{
+  justify-content:center;
+  text-align: center;
+  align-items: center;
+ 
+}
+.par2:hover{ border:2px solid pink;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: large;
+background-image:linear-gradient(aquamarine,pink);
+height: 60px;
+margin-bottom: 2px;}
